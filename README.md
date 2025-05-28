@@ -74,6 +74,7 @@ These controls give on‑the‑fly diagnostics without navigating menus.
 
 ### 6. Engagement Composition  
 ![image](https://github.com/user-attachments/assets/0d65854e-d549-44c9-99e2-42990c0fa315)
+
 **Chart type:** 100 % stacked bar (likes vs. shares vs. comments by platform)  
 - **Purpose:** Understand the qualitative mix of engagement actions to tailor calls‑to‑action and creative prompts.  
 - **Insight:** Across all platforms, likes represent the majority (≈ 76 %), shares account for 15–16 %, and comments make up 7–8 %. Notably, TikTok shows a marginally higher comment share, suggesting potential to encourage user discussion in future campaigns.
