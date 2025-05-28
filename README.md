@@ -19,14 +19,15 @@ This Power BI dashboard synthesizes detailed performance metrics from over **12�
 ---
 
 ## Key Performance Indicators
+![Image](https://github.com/user-attachments/assets/460b25fe-cf86-433b-a4ec-74bbd0a7e6cf)
+| Metric                        | Description                                                                             |
+|-------------------------------|-----------------------------------------------------------------------------------------|
+| **Total Views**               | Cumulative content impressions                                                          |
+| **Total Engagements**         | Sum of likes, shares, and comments                                                      |
+| **Average Engagement Rate**   | (Total Engagements ÷ Total Views) × 100                                                 |
+| **Performance Index**         | Engagement Rate ÷ Median Engagement Rate (values > 1 indicate above‑median performance) |
 
-| Metric                   | Value           | Description                                 |
-|--------------------------|-----------------|---------------------------------------------|
-| **Total Views**          | 12,470,332,220  | Cumulative number of times content was seen.|
-| **Total Engagements**    | 1,634,414,928   | Sum of likes, shares, and comments.         |
-| **Average Engagement Rate** | 56.76 %       | (Total Engagements ÷ Total Views) × 100.    |
-
-These KPIs provide an immediate snapshot of both scale (reach) and intensity (engagement efficiency), setting the context for deeper analysis.
+These KPIs provide an immediate snapshot of both scale (reach) and efficiency (how posts perform relative to the median), setting the context for deeper analysis.
 
 ---
 
